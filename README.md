@@ -13,4 +13,4 @@ You can access and deploy the app [here](https://4tyn88-brianna0bristow.shinyapp
 
 ## About the *penguins* Dataset
 
-The data used in this Shiny app is from **palmerpenguins** package and can be loaded into R via the following code chunk: ```install.packages("palmerpenguins")```.  Data in this package was collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.  The penguins dataset contain data for 344 penguins, collected from 3 different species and 3 islands in the Palmer Archipelago, Antarctica.
+The data used in this Shiny app is from **palmerpenguins** package and can be loaded into R via the following code chunk: ```install.packages("palmerpenguins")```.  Data in this package was collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.  The penguins dataset contains data for 344 penguins, collected from 3 different species and islands in the Palmer Archipelago, Antarctica.
