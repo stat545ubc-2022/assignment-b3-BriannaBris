@@ -1,4 +1,4 @@
-# Assignment B3 - Creating the "Playing with Penguins" Shiny App
+# Assignment B3 & B4 - Creating the "Playing with Penguins" Shiny App
 
 ## Introducing the "Playing with Penguins" Shiny App
 
@@ -7,9 +7,10 @@ For this assignment, I chose **Option B:** to create my own Shiny app, using the
 You can access and deploy the app [here](https://4tyn88-brianna0bristow.shinyapps.io/Penguins/).
 
 ## The **Penguins folder** contains...
-- the *app.R file* holds the raw code for the Shiny app
+- the *app.R file* holds the raw code for the updated B4 Shiny app
 - the *rsconnect folder* holds the necessary files for running and deploying app 
 - the *www folder* where app images are stored
+- the *B3app.R file* holds the raw code for the original B3 Shiny app
 
 ## About the *penguins* Dataset
 
