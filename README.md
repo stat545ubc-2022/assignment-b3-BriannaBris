@@ -5,6 +5,7 @@
 For this assignment, I chose **Option B:** to create my own Shiny app, using the `palmerpenguins::penguins` dataset.  The "Playing with Penguins" Shiny app allows you to filter the penguins dataset by *Year* and *Island* and compare bill length, bill depth, flipper length and body mass between penguins species under the chosen parameters.  After selecting your desired year and island from the side bar menu, the app will output a corresponding violin plot and data table.
 
 You can access and deploy the app [here](https://4tyn88-brianna0bristow.shinyapps.io/Penguins/).
+**Note: My app was taking a long time to republish, if this app is the old version, please run the new app.R code to view my updated app!**
 
 ## The **Penguins folder** contains...
 - the *app.R file* holds the raw code for the updated B4 Shiny app
